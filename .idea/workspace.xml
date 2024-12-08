@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Bank Management System:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcfff2ce-5a4c-44b7-9185-70c36429b3ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar_tz_1_3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank Management System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Balance_Enquery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Fast_Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Main_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/MiniStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/PinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Signup2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Signup3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/Withdrawal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_management_system/config.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oD31ExFYcYqACjjsA0bxhpPblo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Balance_Enquery.executor": "Run",
+    "Application.Deposit (1).executor": "Run",
+    "Application.Deposit.executor": "Run",
+    "Application.Fast_Cash.executor": "Run",
+    "Application.Login (1).executor": "Run",
+    "Application.Login (2).executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Main_Class (1).executor": "Run",
+    "Application.Main_Class.executor": "Run",
+    "Application.MiniStatement.executor": "Run",
+    "Application.PinChange (1).executor": "Run",
+    "Application.PinChange.executor": "Run",
+    "Application.Signup.executor": "Run",
+    "Application.Signup2 (1).executor": "Run",
+    "Application.Signup2.executor": "Run",
+    "Application.Signup3.executor": "Run",
+    "Application.Withdrawal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA PROJECT'S/Electricity Billing System",
+    "onboarding.tips.debug.path": "D:/Bank Management System/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Balance_Enquery">
+    <configuration name="Balance_Enquery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank_management_system.Balance_Enquery" />
+      <module name="Bank Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deposit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank_management_system.Deposit" />
+      <module name="Bank Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fast_Cash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank_management_system.Fast_Cash" />
+      <module name="Bank Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank_management_system.Login" />
+      <module name="Bank Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank_management_system.Main_Class" />
+      <module name="Bank Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Balance_Enquery" />
+        <item itemvalue="Application.Deposit" />
+        <item itemvalue="Application.Fast_Cash" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Main_Class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcfff2ce-5a4c-44b7-9185-70c36429b3ec" name="Changes" comment="" />
+      <created>1730390110044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730390110044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bank_Management_System$Signup.ic" NAME="Signup Coverage Results" MODIFIED="1730402773437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>bank_management_system.*</FILTER>
+    </SUITE>
+  </component>
+</project>
